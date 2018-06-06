@@ -1,7 +1,11 @@
 # tailorman_site
 
-only use 
+*only use FOLDERS
 
-FOLDERS
   --dist
   --partials
+ 
+*Ignore FILES
+
+  --gulpfile.js
+  --package-lock.json
